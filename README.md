@@ -1,8 +1,8 @@
 # chickflick-api
 
-Welcome to the ChickFlicks API, a dynamic application designed to provide seamless access to a curated collection of chick flicks.  
-Built using straightforward PHP and Object-Oriented Programming (OOP) principles, this API offers an efficient and user-friendly interface for retrieving movie data, including titles, ratings (IMDb), and descriptions (Wikipedia).  
-With its clean architecture and easy-to-understand structure, this project demonstrates the power of PHP's OOP capabilities while delivering an engaging experience for users. Dive in and explore the wonderful world of chick flicks!  
+Welcome to the ChickFlicks API, a dynamic application designed to provide access to a curated collection of chick flicks.
+Built using straightforward PHP and Object-Oriented Programming (OOP) principles, this API efficiently retrieves movie data, including titles, ratings (IMDb), and descriptions (Wikipedia). While there is currently no user-friendly interface and the API is not online, its clean architecture and organized structure showcase the power of PHP's OOP capabilities.
+Although user interaction is limited at this time, developers can explore the underlying codebase to understand how to integrate and utilize the chick flicks data in their own applications.
 
 ## Documentation
 
